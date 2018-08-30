@@ -1,0 +1,6 @@
+-sname dummy_docker
+
+-setcookie dummy_docker_cookie
+
++K true
++A30
